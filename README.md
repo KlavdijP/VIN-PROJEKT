@@ -1,5 +1,6 @@
 # VIN-PROJEKT
 VODNA ZALIVALKA
+![final](https://user-images.githubusercontent.com/61451323/177051054-97b65a71-dc3f-4db2-bd6f-3e4f6c69c1bd.jpg)
 
 # Ideja
 Za projektno nalogo pri predmetu VIN sem se odločil izdelati vodno zalivako za rože.
