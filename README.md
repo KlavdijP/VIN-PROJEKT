@@ -11,30 +11,23 @@ Za lažji pregled se vse prikazuje še na spletni strani.
 
 # Komponente!
 
-<ul>
-<li>
 ESP32
  ![ESP32](https://user-images.githubusercontent.com/61451323/177050825-a264828c-526f-4af3-9938-1c8dbfacb37d.jpg)
 
-</li>
- 
-<li>
 Vodna črpalka
-</li>
+ ![image](https://user-images.githubusercontent.com/61451323/177050846-bef3d924-4a4d-4124-82c7-59b557ba345e.png)
 
- <li>
 Ultrazvočni senzor
-</li>
+![Ultrasonic](https://user-images.githubusercontent.com/61451323/177050875-1ddad0fa-63b7-44e8-9124-9db6d6465851.jpg)
 
- <li>
 Senzor za merjenje vlažnosti zemlje
-</li>
+![humidity](https://user-images.githubusercontent.com/61451323/177050880-2594190c-6c7c-4466-b839-9323fabab365.jpg)
+
  
   <li>
 Ostalo:
 izolacijsko mehkejšo žico, izolacijski lepilni trak, cin, spajkalnik, ploščo za spajkanje, 100 Ω upor, diodo, NPN tranzistor
 </li>
-</ul>
 
 # Opis posameznih komponent
 ## ESP32
