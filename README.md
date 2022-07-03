@@ -49,3 +49,6 @@ Kapacitivni senzor za merjenje vlage v tleh deluje na principu merjenja upornost
 
 # Videoposnetek delovanja
 https://youtube.com/shorts/emgbvPJWQ4I?feature=share
+## Opis delovanja
+ -Če je razdalja v rezervoarju vode večja od 14, pumpa ne bo več delovala, ker to pomeni, da vode ni.
+ -Če je vlažnost zemlje manjša od 1500, se bo pumpica vžgala za 1 sekundo in to ponavljala na intervalu 5 sekund.
