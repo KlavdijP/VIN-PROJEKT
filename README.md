@@ -11,17 +11,17 @@ Za lažji pregled se vse prikazuje še na spletni strani.
 
 # Komponente!
 
-ESP32
- ![ESP32](https://user-images.githubusercontent.com/61451323/177050825-a264828c-526f-4af3-9938-1c8dbfacb37d.jpg)
+> ESP32
+>>  ![ESP32](https://user-images.githubusercontent.com/61451323/177050825-a264828c-526f-4af3-9938-1c8dbfacb37d.jpg)
 
-Vodna črpalka
- ![image](https://user-images.githubusercontent.com/61451323/177050846-bef3d924-4a4d-4124-82c7-59b557ba345e.png)
+> Vodna črpalka
+>>  ![image](https://user-images.githubusercontent.com/61451323/177050846-bef3d924-4a4d-4124-82c7-59b557ba345e.png)
 
-Ultrazvočni senzor
-![Ultrasonic](https://user-images.githubusercontent.com/61451323/177050875-1ddad0fa-63b7-44e8-9124-9db6d6465851.jpg)
+> Ultrazvočni senzor
+>> ![Ultrasonic](https://user-images.githubusercontent.com/61451323/177050875-1ddad0fa-63b7-44e8-9124-9db6d6465851.jpg)
 
-Senzor za merjenje vlažnosti zemlje
-![humidity](https://user-images.githubusercontent.com/61451323/177050880-2594190c-6c7c-4466-b839-9323fabab365.jpg)
+> Senzor za merjenje vlažnosti zemlje
+>> ![humidity](https://user-images.githubusercontent.com/61451323/177050880-2594190c-6c7c-4466-b839-9323fabab365.jpg)
 
  
   <li>
