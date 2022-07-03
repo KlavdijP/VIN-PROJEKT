@@ -14,6 +14,8 @@ Za lažji pregled se vse prikazuje še na spletni strani.
 <ul>
 <li>
 ESP32
+ ![ESP32](https://user-images.githubusercontent.com/61451323/177050825-a264828c-526f-4af3-9938-1c8dbfacb37d.jpg)
+
 </li>
  
 <li>
