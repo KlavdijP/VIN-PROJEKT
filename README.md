@@ -14,11 +14,8 @@ Za lažji pregled se vse prikazuje še na spletni strani.
 <ul>
 <li>
 ESP32
-![Screenshot](screenshot.png)
 </li>
-
-
-
+ 
 <li>
 Vodna črpalka
 </li>
